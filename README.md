@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Nyalwa 
 
-<!--
-**nyalwa/nyalwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer · Application developer
 
-Here are some ideas to get you started:
+I build practical software that solves real problems, from the first idea to a working application.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ What I work with
+Web: HTML, CSS, JavaScript
+Tools: Git, GitHub, VS Code
+🚀 Featured project
+DiabetesCare
+
+An early diabetes detection system built with HTML. It aims to help people spot warning signs sooner and act early.
